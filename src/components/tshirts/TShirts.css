@@ -1,0 +1,12 @@
+.tshirts {
+    height: 400px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(202, 212, 209);
+}
+
+.tshirts img {
+    height: 250px;
+    border-radius: 10px;
+}

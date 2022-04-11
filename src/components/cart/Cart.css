@@ -1,0 +1,14 @@
+.tri-pros {
+    background-color: green;
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.buy-pros {
+    background-color: rgb(161, 240, 161);
+    color: rgb(107, 84, 8);
+    font-weight: 900;
+    border-radius: 5px;
+    padding: 5px;
+}

@@ -1,0 +1,15 @@
+nav a {
+    text-decoration: none;
+    margin-right: 30px;
+    background-color: rgb(46, 55, 153);
+    color: white;
+    border-radius: 5px;
+    padding: 5px 40px;
+    font-size: larger;
+    font-weight: 700;
+}
+
+nav a:hover {
+    background-color: aqua;
+    color: black;
+}
